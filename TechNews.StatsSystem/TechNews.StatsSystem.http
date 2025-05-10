@@ -1,0 +1,6 @@
+@TechNews.StatsSystem_HostAddress = http://localhost:5063
+
+GET {{TechNews.StatsSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
